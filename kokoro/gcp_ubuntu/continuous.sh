@@ -8,3 +8,5 @@ set -x
 
 cd github/kokoro-codelab-liamh
 ./build.sh
+echo "Fakey success"
+exit 0
